@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ai.newsapp-mergeDebugResources-38:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/khushbuthakker/.gradle/caches/8.14.3/transforms/0ed06e358426257785aee74f5be9c5f5/transformed/material-1.13.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}

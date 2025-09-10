@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.ai.newsapp_mvvm_architecture"
+    namespace = "com.ai.newsapp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.ai.newsapp_mvvm_architecture"
+        applicationId = "com.ai.newsapp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
